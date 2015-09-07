@@ -14,4 +14,5 @@ Agenda    : Initial Project Plan Discussion
             * Resource allocation.
             * How to create base code considering the phase requirement(Especially the database)
             * Using bit-bucket for this application which will help to manage code efficiently.
-*************************************************************************************************************************************************************
+            * Source control mechanism is vital for this app.
+*********************************************************************************************************************
